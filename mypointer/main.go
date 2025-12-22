@@ -17,5 +17,4 @@ func main() {
 
 	*ptr = *ptr * 2
 	fmt.Println("New value is: ", myNumber)
-
 }
