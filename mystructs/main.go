@@ -17,6 +17,6 @@ func main() {
 type User struct {
 	Name   string
 	Email  string
+	Age    string
 	Status bool
-	Age    int
 }
