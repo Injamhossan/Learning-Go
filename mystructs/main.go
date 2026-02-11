@@ -20,3 +20,9 @@ type User struct {
 	Age    string
 	Status bool
 }
+type Xabi struct {
+	Name   string
+	Email  string
+	Age    string
+	Status bool
+}
